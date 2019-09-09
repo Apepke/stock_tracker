@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stock_tracker/static/css/main.eaf7cbdc.chunk.css",
+    "main.js": "/stock_tracker/static/js/main.67dd2c76.chunk.js",
+    "main.js.map": "/stock_tracker/static/js/main.67dd2c76.chunk.js.map",
+    "runtime~main.js": "/stock_tracker/static/js/runtime~main.3626fe2c.js",
+    "runtime~main.js.map": "/stock_tracker/static/js/runtime~main.3626fe2c.js.map",
+    "static/css/2.155b05ca.chunk.css": "/stock_tracker/static/css/2.155b05ca.chunk.css",
+    "static/js/2.bcdb29e6.chunk.js": "/stock_tracker/static/js/2.bcdb29e6.chunk.js",
+    "static/js/2.bcdb29e6.chunk.js.map": "/stock_tracker/static/js/2.bcdb29e6.chunk.js.map",
+    "index.html": "/stock_tracker/index.html",
+    "precache-manifest.e2b27f4cbd1c8616c219289240730316.js": "/stock_tracker/precache-manifest.e2b27f4cbd1c8616c219289240730316.js",
+    "service-worker.js": "/stock_tracker/service-worker.js",
+    "static/css/2.155b05ca.chunk.css.map": "/stock_tracker/static/css/2.155b05ca.chunk.css.map",
+    "static/css/main.eaf7cbdc.chunk.css.map": "/stock_tracker/static/css/main.eaf7cbdc.chunk.css.map",
+    "static/media/bootstrap.min.css": "/stock_tracker/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/App.css": "/stock_tracker/static/media/stocks.86bb1031.jpeg"
+  }
+}
